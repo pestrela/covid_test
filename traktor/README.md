@@ -1,7 +1,8 @@
 
-# rekordbox
+# traktor
 
-rekordbox posts go here
+traktor posts go here
+go back to main page: [here](..)
 
 ## post 1
 
