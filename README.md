@@ -1,10 +1,10 @@
 
 # RB
 
-rb  posts go [here](rb/)
+rb  posts go [here](rekordbox/)
 
 
 # traktor
 
-traktor posts go [here](traktor/)
+traktor posts go [here](traktor)
 
