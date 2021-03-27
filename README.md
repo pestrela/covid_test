@@ -1,10 +1,5 @@
 
-# RB
+# docs
 
-rb  posts go [here](rekordbox/)
-
-
-# traktor
-
-traktor posts go [here](traktor)
+the docs are [here](docs
 
