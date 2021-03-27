@@ -1,5 +1,5 @@
 
 # docs
 
-the docs are [here](docs
+the docs are [here](docs)
 

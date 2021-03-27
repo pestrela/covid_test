@@ -1,0 +1,5 @@
+site_name: Covid posts
+
+theme:
+    name: readthedocs
+
